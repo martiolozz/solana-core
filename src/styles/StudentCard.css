@@ -1,0 +1,29 @@
+.StudentCard {
+    width: 90%;
+    border: 2px solid #000;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.UpContainer {
+    width: calc(100% - 20px);
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom: 1px solid black;
+}
+
+.UpText {
+    margin: 0;
+}
+
+.DescriptionContainer {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    overflow: hidden;
+}
+
+.Description {
+    font-size: small;
+}

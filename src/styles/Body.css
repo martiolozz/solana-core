@@ -1,0 +1,19 @@
+.Body {
+    background-color: #000;
+    width: calc(100vw - 15px);
+    min-height: 92vh ;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.BodyAdvice {
+    background-color: #000;
+    color: #fff;
+    width: 100vw;
+    height: 92vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

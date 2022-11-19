@@ -1,0 +1,13 @@
+.StudentIntroContainer {
+    background-color: #fff;
+    width: 600px;
+    height: 600px;
+    border-radius: 10px;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-right: 50px;
+}

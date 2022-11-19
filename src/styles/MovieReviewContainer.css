@@ -1,0 +1,55 @@
+.MovieReviewContainer {
+    background-color: #fff;
+    width: 600px;
+    height: 600px;
+    border-radius: 10px;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+.Input {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 400px;
+}
+
+.ReviewInput {
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 100px;
+    width: 400px;
+}
+
+.RatingInput {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 100px;
+}
+
+.BtnContainer {
+    width: 120px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.SubmitReview {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    width: 90%;
+    height: 90%;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.SubmitReview:hover {
+    background-color: rgb(60, 60, 60);
+}

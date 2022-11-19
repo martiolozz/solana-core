@@ -1,0 +1,23 @@
+.Header {
+    background-color: #000;
+    width: calc(100vw - 15px);
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.HeaderAdvice {
+    background-color: #000;
+    width: 100vw;
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.WalletBtn {
+    background-color: #fff;
+    color: #000;
+    margin-right: 100px;
+}
